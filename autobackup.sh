@@ -15,4 +15,4 @@ cp -r $src $backup_file
 
 
 echo "Backup completed successfully." | mail -s "Backup Success" hasinish6@gmail.com
-~
+
