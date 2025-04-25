@@ -6,4 +6,4 @@
 
 find /home/ec2-user -name "*.log" -type f -mtime -1 -delete
 
-echo "deleted log files older than 1 day,to  ensure our disk doesn’t fill up."  | mail -s " Auto-Deleted Log Files Older Than 1 Day" hasinish05@gmail.com
+echo "deleted log files older than 1 day,to  ensure our disk doesn’t fill up."  | mail -s " Auto-Deleted Log Files Older Than 1 Day" hasinish6@gmail.com
